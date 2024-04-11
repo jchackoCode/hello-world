@@ -1,2 +1,2 @@
 # hello-world
-# john chackko
+# john chacko
